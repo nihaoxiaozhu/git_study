@@ -1,2 +1,6 @@
 hibernate1   struts2
 hibernate2   spring3
+hibernate3   spring4
+hibernate4   spring5
+hibernate5   spring6
+hibernate6   spring7
