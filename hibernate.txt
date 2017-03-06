@@ -5,3 +5,5 @@ hibernate4   spirng5
 spring       springmvc
 struts2      jfinal
 javascript    jquery
+mybatis      mybatis2
+ssh           ssm
